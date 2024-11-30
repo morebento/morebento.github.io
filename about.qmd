@@ -1,9 +1,121 @@
 ---
-title: "About"
+title: "morebento"
+about:
+  template: trestles
+  image: images/profile.jpg
+  links:
+    - icon: mastodon
+      text: mastodon
+      href: https://aus.social/@morebento
+    - icon: github
+      text: Github
+      href: https://github.com/morebento
+
 ---
 
-About this site
+# Data Person
+Location: Adelaide, South Australia  
+Contact: https://aus.social/@morebento
 
-```{r}
-1 + 1
-```
+---
+
+## Professional Summary
+
+A seasoned data leader with over 30 years of experience in data science, data governance, and data engineering across industries including environmental regulation, energy, and renewable electricity. Specialises in designing and executing data strategies that transform businesses into insight-driven organisations. Proficient in technical tools and frameworks, fostering collaboration between technical and non-technical stakeholders.
+
+### Key Strengths
+- **Leadership**: Extensive experience managing multidisciplinary teams to deliver data-driven solutions.
+- **Data Governance**: Expertise in developing frameworks and policies to ensure data accuracy and security.
+- **Strategic Planning**: Skilled in aligning data initiatives with long-term organisational goals.
+- **Stakeholder Collaboration**: Adept at translating technical data insights into actionable outcomes.
+- **Technical Proficiency**: Hands-on experience with tools like Python, R, SQL, Databricks, AWS, and Azure.
+- **Continuous Improvement**: Always exploring emerging technologies to maintain a competitive edge.
+
+---
+
+## Professional Journey
+
+### Enterprise Data and Analytics Lead  
+(Oct 2024 - present)  
+*Critical Energy Infrastructure Provider*  
+
+- Lead the development and implementation of an enterprise-wide data governance framework to improve data maturity, quality, and strategic insights.  
+- Foster a culture of data literacy and collaboration by coaching leaders and aligning cross-functional teams to data-driven decision-making.  
+- Collaborate with technology, legal, and governance teams to deliver compliant, innovative data platforms leveraging emerging technologies like AI and machine learning.  
+
+### Consultant, Data Intelligence  
+(Aug 2020 – Sep 2024)  
+*National IT Consultancy and Transformation Partner*  
+- Delivered innovative data solutions, including forecasting models and cloud-based platforms.  
+- Created AI-powered document summarisation prototypes for the healthcare sector.  
+- Architected advanced cloud-based solutions using major cloud platforms for the energy sector.
+
+### Data Science Leader  
+(Jul 2019 – Jul 2023)  
+*International Technology and Consulting Firm*  
+- Managed data science and analytics teams delivering machine learning and cloud infrastructure projects.  
+- Pioneered a document classification system that earned regional recognition for innovation.  
+- Developed strategic data ecosystems for public sector clients.
+
+### Applied Data Scientist  
+(Mar 2017 – Jul 2019)  
+*Energy Efficiency Technology Innovator*  
+- Built machine learning models for renewable energy forecasting using cloud-based tools.  
+- Enhanced data strategies to improve energy efficiency decision-making.
+
+### Data Governance Specialist  
+(Jul 2016 – Nov 2016)  
+*National Energy and Resources Provider*  
+- Established governance frameworks and improved data quality processes within a corporate structure.
+
+### Data Science Innovator  
+(Mar 2014 – Jul 2016)  
+*Major Energy and Resources Organisation*  
+- Designed predictive analytics models for real-time operations, reducing costs and boosting efficiency.  
+- Built end-to-end systems for data ingestion and visualisation.
+
+### Data Systems Strategist  
+(Mar 2006 – Mar 2014)  
+*Energy Sector Enterprise*  
+- Developed strategies for environmental data governance and implemented modernised systems.  
+
+### Additional Roles  
+Held various technical and leadership roles in data and IT across industries, contributing to innovation in energy, IT consulting, and environmental systems.
+
+---
+
+## Education & Certifications
+- Degree in Agricultural Science  
+- Training in Generative AI and Large Language Models  
+- Certified in AWS, Scrum, and SAFe Agile practices  
+
+---
+
+## Professional Affiliations
+- Organised regional data and AI communities.  
+- Chaired governance-focused networks.
+
+---
+
+## Recognitions
+- Multiple awards for innovation and leadership in data-driven projects.  
+
+---
+
+## Technical Skills  
+
+| **Category**                 | **Skills**                                                                                       |
+|------------------------------|-------------------------------------------------------------------------------------------------|
+| **Programming Languages**    | Python, R, SQL                                                                                 |
+| **Data Tools**               | Databricks, Tableau, Spark, AI frameworks                                                     |
+| **Cloud Platforms**          | AWS, Azure                                                                                    |
+| **Data Governance**          | Framework development, metadata management, data lifecycle optimisation                      |
+| **Visualisation**            | Power BI, cloud-based analytics environments                                                  |
+| **Database Systems**         | Oracle, Microsoft SQL Server                                                                  |
+| **Project Tools**            | Agile methodologies, Jira, MS Project                                                        |
+
+---
+
+## Additional Information  
+- Citizenship and security clearance details available upon request.  
+- References provided upon request.
